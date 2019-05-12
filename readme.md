@@ -7,8 +7,5 @@ git撤销修改练习
 master与分支交叉处理
 分支冲突练习
 分支管理
-<<<<<<< Updated upstream
 第二次提交隐藏暂存区练习
-=======
 验证stash 结构
->>>>>>> Stashed changes
